@@ -9,3 +9,6 @@ I'm back! I wont be working on this for long because I have an interview at 1, b
 possible. I want to start on the actual navbar today
 9:23 AM
 I made my logo in Adobe and put it in my Navbar. I also styled it to match whow big it should look on the page.
+9:45 AM
+Implemented the basic il lists inside of the divs. This was done with simple html code and I replaced the logo I 
+had orignally.
