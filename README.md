@@ -19,3 +19,6 @@ I got the CSS implemented into the navbar. This changed the design of the navbar
 hamburger menu and somthngs may need to be tweeked. Also add some more Javascript in the app.js file.
 8:45 PM
 The logo's size got fixed. I simply got rid of the style that was in the img src for the logo.
+9:23 PM
+Figured out a way to put in a burger menu in my application. I forgot a piece of code that would insert the burger menu into my application whenever my navbars
+screen size changed. It also insert the logo links to different social media. I'm basically all done with this project.
