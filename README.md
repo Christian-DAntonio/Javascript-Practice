@@ -12,3 +12,8 @@ I made my logo in Adobe and put it in my Navbar. I also styled it to match whow 
 9:45 AM
 Implemented the basic il lists inside of the divs. This was done with simple html code and I replaced the logo I 
 had orignally.
+February 15th 2024
+I was too busy yesterday too work on this project, but now I have time! I'm hoping that I can get this one done by today and move onto the next one.
+8:41 AM
+I got the CSS implemented into the navbar. This changed the design of the navbar and changed the fonts of the actual navbar elemenst as well. Still no 
+hamburger menu and somthngs may need to be tweeked. Also add some more Javascript in the app.js file.
