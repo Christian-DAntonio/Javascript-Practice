@@ -22,3 +22,6 @@ The logo's size got fixed. I simply got rid of the style that was in the img src
 9:23 PM
 Figured out a way to put in a burger menu in my application. I forgot a piece of code that would insert the burger menu into my application whenever my navbars
 screen size changed. It also insert the logo links to different social media. I'm basically all done with this project.
+9:28 PM
+Missed a spot! Turns out the burger menu wouldn't give out the ul list when click. This was because the nav toggles queryselecter didn't sleect 'nav-toggle', the button's
+name, but instead the const's function. This made the burger menu not work properly. I fixed this easily. Now I'm done with this project. I can move onto the next one!!!!!
