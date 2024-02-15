@@ -17,3 +17,5 @@ I was too busy yesterday too work on this project, but now I have time! I'm hopi
 8:41 AM
 I got the CSS implemented into the navbar. This changed the design of the navbar and changed the fonts of the actual navbar elemenst as well. Still no 
 hamburger menu and somthngs may need to be tweeked. Also add some more Javascript in the app.js file.
+8:45 PM
+The logo's size got fixed. I simply got rid of the style that was in the img src for the logo.
