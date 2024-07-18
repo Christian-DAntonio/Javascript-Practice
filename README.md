@@ -4,3 +4,4 @@ July 18th 2024
 10: 49 AM - Added some functionality to the video via command in the video tag (loop, muted and autoplay more specifically)
 10:55 AM - Made the video project header appear on top of the video.
 11:04 AM - Black background for video made I changed the headers color from black to white. Now I need to find a a way to center the header.
+11:07 AM - I put the header in the center of the page!!!!!!

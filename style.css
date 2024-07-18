@@ -1,3 +1,10 @@
+header {
+    min-height: 100vh;
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+
 .video-container {
     position: absolute;
     top: 0;
