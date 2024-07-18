@@ -1,2 +1,3 @@
 July 18th 2024
 10:40 AM - I haven't done JavaScript coding in a while. All the new projects, interviews, job searching and general business of these updcoming weeks overshadowed this. But now I'm back and ready to start again. I plan to do this more consistently than I used to.
+10:46 - Video implemented.
