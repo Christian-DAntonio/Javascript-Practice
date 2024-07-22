@@ -8,3 +8,7 @@ July 18th 2024
 Saturday July 20th 2024
 9:52 AM - I'm back! I'm probably not going to be here for very long, but I will try to do as much as I can.
 9:55 AM - Play and Pause button added, pbut without any functioanlity, I will do that after I upload this commit to Github.
+10:01 - I decided to upgrade the styles.css file to make it look more dynaimic and intersting
+Monday July 21st 2024
+8:52 AM - I'm pretty busy again, but with HelpUsDefend and another big job application to fill out, but I will try and get some progress done on this video project.
+9:12 AM - After getting all those job applications completed, I got back tod oing this and offically addedd functionality to the pause and play buttons. This was done in the app.js file using simple JavaScript coding.
