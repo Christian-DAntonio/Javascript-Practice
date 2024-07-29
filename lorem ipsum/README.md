@@ -2,3 +2,5 @@ July 24th 2024
 9:31 AM - Today is the day for a new JavaScript project!!!!!!!!!!!!!! This time I decided to do the lorem ipsum generator project, because thats what caught my attention the most.
 July 29th 2024
 9:03 AM - I'm back! I had another busy week last week, but know that my trip to Italy is approaching, I can finally rid myself of my usual job searching duties and focus more on coding! I'm hoping to get this project and another one done before I go to Italy.
+9:08 AM - The generate button was offically added to the website using simple HTML code and classes. The next step would be to add the code that generates the lorem ispsum text when pushed.
+9:21 AM - app.js file updated. I put in all of those paragraphs through the usage if a const function and I called all of the tags in the html file using the const functions and then slecting them with the document.querySelector and document.getElementById functions.
