@@ -17,7 +17,13 @@ const result = document.querySelector('.lorem-text');
 
 form.addEventListener("submit", function(e){
     e.preventDefault();
-    const value = amount.value;
-    console.log(value)
-})
+    const value = parseInt(amount.value);
+    console.log(isNaN)
+
+    // empty value, -1 and 9 and up
+    if(isNaN(value) || value < 0 || value > 9){
+      result.innerHTML = `<p class="result">${text[0]}</p>`
+    }
+    
+});
 
