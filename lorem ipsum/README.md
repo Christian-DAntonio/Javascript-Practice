@@ -9,3 +9,7 @@ July 30th 2024
 8:48 AM - Back for more coding! I can't do that much, because I have a hair appointment at 11:30, and I still want to work on my HelpUsDefend task a bit, but I will do the most that I can today.
 9:08 AM - The Generate button officaly produces a random assortment of pararaphs when the button is pressed now!!!!!!!!!!!!!! This was done via the use of some more simple JavaScript coding and some if statements.
 9:30 AM - I modified the generate buttons functionality and add an else statement so that it would generate random sentences whenever it is pressed.
+July 31st 2024
+9:05 AM - I'm back again! I'm hoping that by today, I'm going to complete this project.
+9:37 AM - Updated the functionalit of the generate button. This time when you enter 9 or higher into the input bar, it will give you exactly nine pararaphs.
+9:44 AM - I have offically completed this project.
