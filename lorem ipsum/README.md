@@ -8,4 +8,4 @@ July 29th 2024
 July 30th 2024
 8:48 AM - Back for more coding! I can't do that much, because I have a hair appointment at 11:30, and I still want to work on my HelpUsDefend task a bit, but I will do the most that I can today.
 9:08 AM - The Generate button officaly produces a random assortment of pararaphs when the button is pressed now!!!!!!!!!!!!!! This was done via the use of some more simple JavaScript coding and some if statements.
-9:30 AM - I modifyed the generate buttons functionality and add an else statement so that it would generate random sentences whenever it would be pressed.
+9:30 AM - I modified the generate buttons functionality and add an else statement so that it would generate random sentences whenever it is pressed.
