@@ -1,2 +1,3 @@
 August 1st 2024
-9:05 AM - First day of August, new day for a new project! This time I'm going to be doing a "Grocerry" project, where the whole website is a list of projects, like a groccery list. I probably wont get this done before I go to Italy, but I'm hoping to gte half way there at least.
+9:05 AM - First day of August, new day for a new project! This time I'm going to be doing a "Grocerry" project, where the whole website is a list of projects, like a groccery list. I probably wont get this done before I go to Italy (not even close), but I'm hoping to gte half way there at least.
+9:40 AM - Got the basic outline for the groccery website completed. More specifically, I made the first form for the Groccery list.
