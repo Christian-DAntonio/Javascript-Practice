@@ -7,3 +7,4 @@ August 2nd 2024
 August 26th 2024 
 10:17 AM - After a 2 week trip to Italy and another full week of me getting COVID, I'm finally back for some coding!!!!!!!!!!!!!!! I'm hoping that I can make some decent progress on this project today and that this day will rekindle my drive to learn more about coding. I'm also hoping that I can find where I left off last.
 10:27 AM - Thank god I found where I left off last! I added the styles.css link to my document and I added some more consts in the app.js.
+10:48 AM - I added alot in these past 20 minutes. Added some event listeners and some submit forms, that should give me some functionality in the console of the app. Unfortunatley, there is an error in the console that I need to figure out.
