@@ -14,7 +14,7 @@ form.addEventListener("submit", addItem);
 
 function addItem(e) {
  e.preventDefault();
- const value = grocerry.value
+ const value = grocery.value
  if (value){
    console.log('value is truthy')
  }

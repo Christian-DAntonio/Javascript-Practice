@@ -13,4 +13,5 @@ August 26th 2024
 
 August 27th 2024
 9:22 AM - I'm back!!! Today I hope to get at least part-way done, which would be around 30-40% done. I also hope I can figure out that "can't read the property of null" AddEventListener problem.
-9:33 AM - I figured it out!!! The problem is no longer there!!!!!! It had something to do with my index.html code.
+9:33 AM - I figured it out!!! The problem is no longer there!!!!!! It had something to do with my index.html code. There was a simple spelling mistake in one of the form tags.
+9:38 AM - The website is finally working properly!!!!!!!!!!!!!!!! There's no errors or anyhting in it!!!!! When I input something into it, Something actually comes up in the console!!!!!!!!!!!!!!!
