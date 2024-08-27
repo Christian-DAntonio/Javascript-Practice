@@ -15,6 +15,9 @@ form.addEventListener("submit", addItem);
 function addItem(e) {
  e.preventDefault();
  const value = grocerry.value
+ if (value){
+   console.log('value is truthy')
+ }
  const id = new Date().getTime().toString();
  if(value !=='' && editFlag === false) {
     console.log("add item to the list");
