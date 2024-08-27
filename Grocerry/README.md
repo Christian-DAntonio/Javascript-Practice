@@ -16,3 +16,4 @@ August 27th 2024
 9:33 AM - I figured it out!!! The problem is no longer there!!!!!! It had something to do with my index.html code. There was a simple spelling mistake in one of the form tags.
 9:38 AM - The website is finally working properly!!!!!!!!!!!!!!!! There's no errors or anyhting in it!!!!! When I input something into it, Something actually comes up in the console!!!!!!!!!!!!!!!
 10:05 AM - Alerts have been added! This means that if you add an empty value in the app, you get a text box that states "empty value".
+10:25 AM - Alert now disappears after a few seconds of being displayed on screen.

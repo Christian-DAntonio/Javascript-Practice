@@ -23,11 +23,16 @@ function addItem(e) {
     console.log("editing");
  }
  else{
-
+   displayAlert("please enter value", "danger");
  }
 }
 
 function displayAlert(text,action){
  alert.textContent = text;
  alert.classList.add(`alert-${action}`);
+
+ setTimeout(function () {
+   alert.textContent = "";
+   alert.classList.remove(`alert-${action}`);
+ }, 1000);
 }
