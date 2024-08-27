@@ -15,17 +15,19 @@ form.addEventListener("submit", addItem);
 function addItem(e) {
  e.preventDefault();
  const value = grocery.value
- if (value){
-   console.log('value is truthy')
- }
  const id = new Date().getTime().toString();
- if(value !=='' && editFlag === false) {
+ if(value && !editFlag) {
     console.log("add item to the list");
  }
- else if(value !== '' && editFlag === true) {
+ else if(value && editFlag) {
     console.log("editing");
  }
  else{
-    console.log("empty value")
+
  }
+}
+
+function displayAlert(text,action){
+ alert.textContent = text;
+ alert.classList.add(`alert-${action}`);
 }
