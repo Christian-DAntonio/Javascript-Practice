@@ -17,3 +17,8 @@ August 27th 2024
 9:38 AM - The website is finally working properly!!!!!!!!!!!!!!!! There's no errors or anyhting in it!!!!! When I input something into it, Something actually comes up in the console!!!!!!!!!!!!!!!
 10:05 AM - Alerts have been added! This means that if you add an empty value in the app, you get a text box that states "empty value".
 10:25 AM - Alert now disappears after a few seconds of being displayed on screen.
+
+August 29th 2024
+
+10:06 AM - Couldn't code yesterday because I had a workshop at the City of Windsor. But now I'm free. I'll do only a little bit of coding for the day, since I got more backed up than I thought I would.
+11:03 AM - Know when You input an item into the grocery list, The item you typed actually shows up on the screen!!!!!!!!!! It evenn shows up with and edit or delete option!!!! This was done through some additions to the if code in the app.js file. Also the erason for the time gap is because I had to apply to a job on Hackforge and a job fair for Windsor Essex County, and I had to go through my Gmail emails.
