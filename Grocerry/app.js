@@ -39,6 +39,8 @@ function addItem(e) {
             list.appendChild(element);
             displayAlert("item added to the list", "success");
             container.classList.add('show-container');
+            addToLocalStorage(id,value);
+            setBackToDefault();
  }
  else if(value && editFlag) {
     console.log("editing");
@@ -56,4 +58,12 @@ function displayAlert(text,action){
    alert.textContent = "";
    alert.classList.remove(`alert-${action}`);
  }, 1000);
+}
+
+function setBackToDefault(){
+  console.log("Set back to default");
+}
+
+function addToLocalStorage(id,value){
+  console.log("added to local storgae");
 }
