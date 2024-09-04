@@ -23,3 +23,8 @@ August 29th 2024
 10:06 AM - Couldn't code yesterday because I had a workshop at the City of Windsor. But now I'm free. I'll do only a little bit of coding for the day, since I got more backed up than I thought I would.
 11:03 AM - Know when You input an item into the grocery list, The item you typed actually shows up on the screen!!!!!!!!!! It evenn shows up with and edit or delete option!!!! This was done through some additions to the if code in the app.js file. Also the erason for the time gap is because I had to apply to a job on Hackforge and a job fair for Windsor Essex County, and I had to go through my Gmail emails.
 11:20 AM - This is about as much as I'm willing to do for the day. I'll do more tommrow when I have a less busy day and not slammed with both a Workshop and Team Meeting.
+
+September 4th 2024
+
+9:36 AM - I took way longer than I thought to get back to this! I had a pretty busy week from the last time I coded (I had a wedding the day after the 30th, and the day after that I went to my cosuins house at 2 PM, then I had some holdiays and chores to do for the first few days of September), but now I'm back and ready to do some coding! I hope I can figure out where I left off last, because it has been a while.
+9:56 AM - I got some coding done and even learnt a few things, but I got a Skill Assesment for a Cisco job, I'll be cutting it short for today. At least I started to do some coding again.
