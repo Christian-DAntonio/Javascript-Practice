@@ -28,3 +28,7 @@ September 4th 2024
 
 9:36 AM - I took way longer than I thought to get back to this! I had a pretty busy week from the last time I coded (I had a wedding the day after the 30th, and the day after that I went to my cosuins house at 2 PM, then I had some holdiays and chores to do for the first few days of September), but now I'm back and ready to do some coding! I hope I can figure out where I left off last, because it has been a while.
 9:56 AM - I got some coding done and even learnt a few things, but I got a Skill Assesment for a Cisco job, I'll be cutting it short for today. At least I started to do some coding again.
+
+September 7th 2024
+
+9:02 AM - Was way busier these past few days, and this week, than I thought I would be. I had to go for an interview 2 days ago, I got an internship ysterday, and I went out as well. But now I'm home for the next few days and I'm ready to do a bit of coding.

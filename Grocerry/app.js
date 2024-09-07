@@ -66,9 +66,12 @@ function clearItems(){
 
   if(items.length >  0){
     items.forEach(function(item){
-      list.removeChild
-    })
+      list.removeChild(item);
+    });
   }
+  container.classList.remove("show-container");
+  displayAlert("empty list", "danger");
+  setBackToDefault();
 }
 
 function setBackToDefault(){
