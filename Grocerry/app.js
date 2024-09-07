@@ -13,6 +13,9 @@ let editID = "";
 form.addEventListener("submit", addItem);
 clearBtn.addEventListener('click', clearItems);
 
+const deleteBtn = document.querySelector('.delete-btn');
+console.log(deleteBtn);
+
 function addItem(e) {
  e.preventDefault();
  const value = grocery.value
@@ -35,8 +38,12 @@ function addItem(e) {
               <button type="button" class="delete-btn">
                 <i class="fas fa-trash"></i>
               </button>
-            </div>
-            `;
+            </div>`;
+    const deleteBtn = element.querySelector('.delete-btn');
+    const editBtn = element.querySelector('.edit-btn');
+    deleteBtn.addEventListener('click', deleteItem);
+    editBtn.addEventListener('click', editBtn);
+
             list.appendChild(element);
             displayAlert("item added to the list", "success");
             container.classList.add('show-container');
@@ -72,6 +79,14 @@ function clearItems(){
   container.classList.remove("show-container");
   displayAlert("empty list", "danger");
   setBackToDefault();
+}
+
+function deleteItem(){
+  console.log('item deleted');
+}
+
+function editItem(){
+  console.log('edit item');
 }
 
 function setBackToDefault(){

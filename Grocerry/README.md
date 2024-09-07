@@ -32,3 +32,5 @@ September 4th 2024
 September 7th 2024
 
 9:02 AM - Was way busier these past few days, and this week, than I thought I would be. I had to go for an interview 2 days ago, I got an internship ysterday, and I went out as well. But now I'm home for the next few days and I'm ready to do a bit of coding.
+9:07 AM - The "Clear List" button to work properly!!!!!!!!! So now when you click on the button with an item in the storage, the item will be cleared out.
+9:37 AM - I got the delete button to show "item deleted" when you hit the delete button. This was done through the addition of some functions and some more consts added at the top of the page.
