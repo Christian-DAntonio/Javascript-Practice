@@ -50,7 +50,11 @@ function addItem(e) {
             setBackToDefault();
  }
  else if(value && editFlag) {
-    console.log("editing");
+    editElement.innerHTML = value
+    displayAlert('value changed', 'success'); 
+    editLocalStorage(editID,value);
+    editLocalStorage(editID);
+    setBackToDefault();
  }
  else{
    displayAlert("please enter value", "danger");
@@ -105,7 +109,7 @@ function deleteItem(){
   setBackToDefault();
 }
 
-function editItem(){
+function editItem(e){
   const element = e.currentTarget.parentElement.parentElement;
   editElement = e.currentTarget.parentElement.
   previousElementSibling;
@@ -128,3 +132,7 @@ function addToLocalStorage(id,value){
   console.log("added to local storgae");
 }
 
+function removeFromLocalStorage(id) {}
+function editLocalStorage(id, value) {}
+
+localStorage.setItem('orange',JSON.stringify([]))
